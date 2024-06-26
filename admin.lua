@@ -1,79 +1,81 @@
-isadmin[1240907382] = "Donater #"
-isadmin[433382331] = "Оверплюс спасибо"
-isadmin[312552256] = "Boykisser"
-isadmin[335864707] = "Tiktoker"
-isadmin[171386224] = "Dima"
-isadmin[1677836440] = "Donater 1"
-isadmin[241265143] = "Donater 3"
-isadmin[260124293] = "Donater 3"
-isadmin[1599371951] = "Donater 4"
-isadmin[1285659915] = "Donater 5"
-isadmin[240740433] = "Donater 6"
-isadmin[175649008] = "Donater 7"
-isadmin[1484030436] = "Donater 8"
-isadmin[446040543] = "Donater 9"
-isadmin[1077390712] = "Donater 10"
-isadmin[1352699171] = "Donater 11"
-isadmin[916228968] = "Donater 13"
-isadmin[172779505] = "Donater 13"
-isadmin[69170453] = "Donater 14"
-isadmin[1739525166] = "Donater 15"
-isadmin[867319475] = "Donater 16"
-isadmin[1256701837] = "Donater 17"
-isadmin[1250310935] = "Donater 18"
-isadmin[1516542127] = "Donater 19"
-isadmin[141440712] = "Donater 20"
-isadmin[1130914120] = "Donater 21"
-isadmin[1066858357] = "Donater 23"
-isadmin[1283520806] = "Donater 23"
-isadmin[902179296] = "Donater 24"
-isadmin[1130396963] = "Donater 25"
-isadmin[363925704] = "Donater 26"
-isadmin[363925704] = "Donater 27"
-isadmin[174005013] = "Donater 28"
-isadmin[1261367857] = "Donater 29"
-isadmin[251751400] = "Donater 30"
-isadmin[841148012] = "Donater 31"
-isadmin[142694532] = "Donater 31"
-Lowadmin[1240907382] = "yayayaa"
-Mediumadmin[1130914120] = "Donater 21"
-Mediumadmin[1261367857] = "Donater 29"
-Mediumadmin[363925704] = "Donater 26"
-Mediumadmin[1130396963] = "Donater 25"
-Mediumadmin[1066858357] = "Donater 23"
-Mediumadmin[902179296] = "Donater 24"
-Mediumadmin[1677136440] = "Donater 1"
-Mediumadmin[241265143] = "Donater 3"
-Mediumadmin[260124293] = "Donater 3"
-Mediumadmin[1599371951] = "Donater 4"
-Mediumadmin[1285659915] = "Donater 5"
-Mediumadmin[175649008] = "Donater 7"
-Mediumadmin[1484030436] = "Donater 8"
-Mediumadmin[446040543] = "Donater 9"
-Mediumadmin[1077390712] = "Donater 10"
-Mediumadmin[1352699171] = "Donater 11"
-Mediumadmin[916228968] = "Donater 13"
-Mediumadmin[172779505] = "Donater 13"
-Mediumadmin[1739525166] = "Donater 15"
-Mediumadmin[867319475] = "Donater 16"
-Mediumadmin[1250310935] = "Donater 18"
-Mediumadmin[1516542127] = "Donater 19"
-Mediumadmin[141440712] = "Donater 20"
-Mediumadmin[174005013] = "Donater 28"
-Mediumadmin[251751400] = "Donater 30"
-Mediumadmin[841148012] = "Donater 31"
-Mediumadmin[123] = "Donater #"
-Highadmin[1283520806] = "Donater 23"
-Highadmin[841148012] = "Donater 31"
-Highadmin[841148012] = "Donater 31"
-Highadmin[841148012] = "Donater 31"
-Highadmin[433382331] = "Оверплюс спасибо"
-Highadmin[312552256] = "Boykisser"
-Highadmin[335864707] = "Tiktoker"
-Highadmin[171386224] = "Dima"
-Highadmin[841148012] = "Donater 31"
-Highadmin[1256701837] = "Donater 17"
-Highadmin[69170453] = "Donater 14"
-Highadmin[240740433] = "Donater 6"
-Highadmin[1677836440] = "Donater"
+isadmin[433382331] 
+isadmin[312552256] 
+isadmin[335864707] 
+isadmin[171386224] 
+isadmin[1677836440]
+isadmin[241265143] 
+isadmin[260124293] 
+isadmin[1599371951]
+isadmin[1285659915]
+isadmin[240740433] 
+isadmin[175649008] 
+isadmin[1484030436]
+isadmin[446040543] 
+isadmin[1077390712]
+isadmin[1352699171]
+isadmin[916228968] 
+isadmin[172779505] 
+isadmin[69170453]
+isadmin[1739525166]
+isadmin[867319475] 
+isadmin[1256701837]
+isadmin[1250310935]
+isadmin[1516542127]
+isadmin[141440712] 
+isadmin[1130914120]
+isadmin[1066858357]
+isadmin[1283520806]
+isadmin[902179296] 
+isadmin[1130396963]
+isadmin[363925704] 
+isadmin[363925704] 
+isadmin[174005013] 
+isadmin[1261367857]
+isadmin[251751400] 
+isadmin[841148012] 
+isadmin[1426494532]
+isadmin[133531922] 
+Mediumadmin[1130914120]
+Mediumadmin[1261367857]
+Mediumadmin[363925704] 
+Mediumadmin[1130396963]
+Mediumadmin[1066858357]
+Mediumadmin[902179296] 
+Mediumadmin[1599371951]
+Mediumadmin[1285659915]
+Mediumadmin[175649008] 
+Mediumadmin[1484030436]
+Mediumadmin[446040543] 
+Mediumadmin[1077390712]
+Mediumadmin[1352699171]
+Mediumadmin[916228968] 
+Mediumadmin[172779505] 
+Mediumadmin[1739525166]
+Mediumadmin[867319475] 
+Mediumadmin[1516542127]
+Mediumadmin[141440712] 
+Mediumadmin[174005013] 
+Mediumadmin[251751400] 
+Mediumadmin[841148012] 
+Mediumadmin[133531922] 
+Mediumadmin[1240907382]
+Highadmin[1283520806]
+Highadmin[841148012] 
+Highadmin[841148012] 
+Highadmin[841148012] 
+Highadmin[433382331] 
+Highadmin[312552256] 
+Highadmin[335864707] 
+Highadmin[171386224] 
+Highadmin[841148012] 
+Highadmin[1256701837]
+Highadmin[69170453]
+Highadmin[240740433] 
+Highadmin[1426494532]
+Highadmin[1677836440]
+Highadmin[241265143] 
+Highadmin[260124293] 
+Highadmin[1250310935]
+Highadmin[1240907382]
+Highadmin[1240907382]
 ActiveSteamAccountID[1250310935] = "ds"
